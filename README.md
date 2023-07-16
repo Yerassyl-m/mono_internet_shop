@@ -1,1 +1,1 @@
-# mono_internet_shop
+In this project, I made a Mono online store. Mono has a range of clothing. And to make this project I used html, css. There is a separate button for registration and login. At the top of the project there are some buttons like about us, homepage, card. These buttons are working. About us (information about this store comes out), homepage (goes to the main page), card (payment information, where to send money, what payment methods are available)
