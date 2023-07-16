@@ -1,0 +1,404 @@
+body {
+    background-image: url("image/back_image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header {
+    background-color: #fff;
+}
+
+.header_footer {
+    padding-top: 40px;
+}
+
+.header_text {
+    width: 550px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 450px;
+    margin-top: -60px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.header_logo {
+    margin-left: 150px
+}
+
+.header_setting_logo {
+    margin-left: 1200px;
+    margin-top: -48px;
+    cursor: pointer;
+}
+
+.header_logo_log_in {
+    margin-left: 1280px;
+    margin-top: -32px;
+    cursor: pointer;
+}
+
+.searc {
+    margin-top: 100px;
+}
+
+.dropdown {
+   margin-left: 200PX;
+   position: absolute;
+  margin-top: -50px;
+
+}
+ 
+
+/* .line_search {
+    margin-left: 200px;
+    width: 1100px;
+    margin-left: 325px;
+    margin-top: -70px;
+    border-radius: 30px;
+} */
+
+.form-group{
+    width: 870px;
+    margin-left: 400px;
+    margin-top: -20px;
+}
+
+.button_search {
+    border: 1px solid;
+    padding-top: 5px;
+    color: #fff;
+    width: 150px;
+    
+    margin-left: 1250px;
+    margin-top: -53px;
+    height: 39px;
+    cursor: pointer;
+    background: #204D64;
+    border-radius: 40px;
+
+}
+
+.button_search h6 {
+    text-align: center;
+}
+
+.button_clothes {
+    margin-top: 20px;
+
+}
+
+.button_clothes1 {
+    margin-left: 200px;
+    width: 180px;
+    height: 35px;
+    background-color: orange;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button_clothes1 h6 {
+    text-align: center;
+    padding-top: 7px;
+    color: #fff;
+}
+
+.button_clothes2 {
+    width: 180px;
+    height: 35px;
+    background-color: orange;
+    border-radius: 10px;
+    margin-left: 400px;
+    margin-top: -35px;
+    cursor: pointer;
+}
+
+.button_clothes2 h6 {
+    text-align: center;
+    padding-top: 7px;
+    color: #fff;
+}
+
+.shop1 {
+    height: 320px;
+    width: 250px;
+    background-color: #fff;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.shop1_image {
+    text-align: center;
+    padding-top: 3px;
+}
+
+.shop_text1 {
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+}
+
+.shop_button1 {
+    height: 40px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: silver;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 250px;
+    margin-top: -50px;
+    color: rgb(31, 31, 139);
+    cursor: pointer;
+}
+
+.shop_button2 {
+    height: 40px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: silver;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 55px;
+    margin-top: 15px;
+    color: rgb(31, 31, 139);
+    cursor: pointer;
+}
+
+.shop2 {
+    height: 320px;
+    width: 250px;
+    background-color: #fff;
+    margin-top: -310px;
+    margin-left: 550px;
+}
+
+.shop_text2 {
+    text-align: center;
+}
+
+.shop2_image {
+    text-align: center;
+    padding-top: 3px;
+}
+
+.shop3 {
+    height: 320px;
+    width: 250px;
+    background-color: #fff;
+    margin-top: -320px;
+    margin-left: 900px;
+}
+
+.shop3_image {
+    text-align: center;
+    padding-top: 3px;
+}
+
+.shop_text3 {
+    text-align: center;
+}
+
+.shop_button3 {
+    height: 40px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: silver;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 55px;
+    margin-top: 15px;
+    color: rgb(31, 31, 139);
+    cursor: pointer;
+}
+
+.shop4 {
+    height: 320px;
+    width: 250px;
+    background-color: #fff;
+    margin-top: -320px;
+    margin-left: 1250px;
+}
+
+.shop4_image {
+    text-align: center;
+    padding-top: 3px;
+}
+
+.shop_text4 {
+    text-align: center;
+}
+
+.shop_button4 {
+    height: 40px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: silver;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 1310px;
+    margin-top: -55px;
+    color: rgb(31, 31, 139);
+    cursor: pointer;
+}
+
+.break {
+    border: 20px solid white;
+    margin-top: 60px;
+}
+
+.about {
+    margin-top: 100px;
+}
+
+.about_title {
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #E4960E;
+
+
+}
+
+.about_title h1 {
+    font-size: 60px;
+}
+
+.image_about {
+    margin-left: 1100px;
+    margin-top: 100px;
+}
+
+.about_text {
+    width: 800px;
+    font-size: 30px;
+    margin-left: 200px;
+    margin-top: -450px;
+    color: #204D64;
+    font-family: 'Inter';
+    font-style: normal; 
+}
+
+.break2 {
+    border: 20px solid white;
+    margin-top: 60px;
+}
+
+.email {
+    margin-top: 200px;
+
+
+}
+
+.email_text {
+    margin-left: 150px;
+
+}
+
+.email_text h1 {
+    color: rgb(49, 49, 88);
+}
+
+.email_text h5 {
+    color: silver;
+
+}
+
+.email_input {
+    margin-left: 700px;
+    margin-top: -70px;
+    width: 500px;
+    height: 100px;
+}
+
+.email_button {
+    width: 150px;
+    height: 38px;
+    margin-left: 490px;
+    background-color: rgb(49, 49, 88);
+    border-radius: 20px;
+    color: #fff;
+    text-align: center;
+    padding-top: 7px;
+    margin-top: -37px;
+}
+
+.email_footer {
+    margin-top: 300px;
+}
+
+.break3 {
+    border: 20px solid white;
+    margin-top: -100px;
+}
+
+footer {
+    background-color: #204D64;
+    height: 500px;
+}
+
+.footer_text {
+    margin-left: 200px;
+    padding-top: 50px;
+    color: #fff;
+}
+
+.footer_text2 {
+    color: #fff;
+    margin-left: 500px;
+    margin-top: -170px;
+}
+
+.f_2 {
+    margin-left: 200px;
+    margin-top: -89px;
+}
+
+.f_3 {
+    margin-left: 500px;
+    padding-top: 60px;
+}
+
+.footer_text3 {
+    color: #fff;
+    margin-left: 950px;
+    margin-top: -250px
+}
+
+.footer_text4 {
+    margin-left: 1200px;
+    margin-top: -110px;
+    color: #fff;
+}
+
+.i1 {
+    margin-left: 700px;
+    cursor: pointer;
+}
+
+.t1 {
+    margin-left: 800px;
+    margin-top: -50px;
+    cursor: pointer;
+}
+
+.y1 {
+    margin-left: 900px;
+    margin-top: -50px;
+    cursor: pointer;
+}
+
